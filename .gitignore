@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Archivos de Windows
+*:Zone.Identifier
+*.Zone.Identifier
+
+#Archivos pkl
+*.pkl
+
 # C extensions
 *.so
 

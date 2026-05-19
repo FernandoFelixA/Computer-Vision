@@ -1,0 +1,26 @@
+{
+  "fernando": {
+    "musica": "rock",
+    "iluminacion": "calida",
+    "temperatura": 25,
+    "televisor": "apagado",
+    "genero": "Man",
+    "edad": 25
+  },
+  "emilia": {
+    "musica": "Imagine Dragons",
+    "iluminacion": "brillante",
+    "temperatura": 21,
+    "televisor": "encendido",
+    "genero": "Woman",
+    "edad": 25
+  },
+  "frankie": {
+    "musica": "modo-infantil",
+    "iluminacion": "colorida",
+    "temperatura": 22,
+    "televisor": "encendido",
+    "genero": "Man",
+    "edad": 12
+  }
+}
