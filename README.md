@@ -6,7 +6,7 @@ Este proyecto de visión por computadora consiste en un sistema de reconocimient
 
 ## Requisitos
 
-- Python 3.13
+- Python 3.12
 - Cámara web (opcional, se puede usar cargando una imagen)
 
 NOTA IMPORTANTE:
@@ -22,7 +22,8 @@ cd Computer-Vision
 ```
 
 2. Crear entorno virtual
-   En Windows:
+
+En Windows:
 
 ```bash
 python -m venv .venv
